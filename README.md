@@ -1,7 +1,7 @@
 # digital-clock
 Digital clock made with Python3 in Ubuntu Linux
 
-Features --
+Features =>
 - Shows time in (Hour:Min:Sec am/pm) format
 - Small in size
 - Semi transparent
