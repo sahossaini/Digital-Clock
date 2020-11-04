@@ -1,4 +1,7 @@
-# digital-clock
+# Digital Clock
+
+Environment : Python3, Ubuntu linux
+
 Digital clock made with Python3 in Ubuntu Linux
 
 Features =>
