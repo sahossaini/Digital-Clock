@@ -19,7 +19,7 @@ def time():
     lbl.after(1000, time)
 
 root = Tk() 
-w = 236 
+w = 235 
 h = 40 
 
 ws = root.winfo_screenwidth()
